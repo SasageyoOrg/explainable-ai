@@ -11,7 +11,6 @@
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Swi-Prolog](https://img.shields.io/badge/environment-SWI--Prolog-orange)
 ![UNIVPM](https://img.shields.io/badge/organization-UNIVPM-red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SasageyoOrg/ia-decision-tree)
 ![GitHub](https://img.shields.io/github/license/SasageyoOrg/ia-decision-tree?color=blue)
 
 </div>
@@ -73,6 +72,10 @@ Datasets sources:
 |   |   |-- tree_gain.txt
 |   |   |-- tree_gainratio.txt
 |   
+|   |-- neural networks
+|   |   |-- mlp.ipynb
+|   |   |-- cnn.ipynb
+|
 |-- utility.pl
 |-- writes.pl
 |-- classify.pl
