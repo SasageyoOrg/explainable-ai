@@ -72,7 +72,7 @@ Datasets sources:
 |   |   |-- tree_gain.txt
 |   |   |-- tree_gainratio.txt
 |   
-|   |-- neural networks
+|   |-- neural_networks
 |   |   |-- mlp.ipynb
 |   |   |-- cnn.ipynb
 |
