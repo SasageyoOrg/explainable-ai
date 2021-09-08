@@ -80,7 +80,6 @@ Datasets sources:
 |-- writes.pl
 |-- classify.pl
 |-- tree_induction.pl
-|-- xai_neural_network.ipynb
 ```
 
 ## 📊 Splitting Criteria <a name="splitting-criteria"></a>
