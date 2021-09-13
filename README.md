@@ -1,18 +1,16 @@
 <p align="center">
   <a href="" rel="noopener">
-  <img width=200px height=200px src="https://i.imgur.com/yINaKw4.png" alt="Project logo"></a>
-  <div><sub>Icon made by <a href="https://www.flaticon.com/authors/kiranshastry" title="Kiranshastry">Kiranshastry</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></sub></div>
+  <img width=200px height=200px src="http://aisb2019.falmouthgamesacademy.com/wp-content/uploads/2018/12/XAI.png" alt="Project logo"></a>
 </p>
 
 <h1 align="center">Explainable Artificial Intelligence</br><sub></sub></h1>
 
 <div align="center">
-
-![Status](https://img.shields.io/badge/status-active-success.svg)
+  
+![Jupyter](https://img.shields.io/badge/implementation-Jupyter-inactive)
 ![Swi-Prolog](https://img.shields.io/badge/environment-SWI--Prolog-orange)
 ![UNIVPM](https://img.shields.io/badge/organization-UNIVPM-red)
 ![GitHub](https://img.shields.io/github/license/SasageyoOrg/ia-decision-tree?color=blue)
-
 </div>
 
 ---
@@ -35,6 +33,8 @@ Datasets sources:
 - <a href="https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+">Obesity (UCI Machine Learning Repository)</a>
 - <a href="https://www.kaggle.com/johnsmith88/heart-disease-dataset">Ischemic Heart Disease (Kaggle)</a>
 - <a href="https://www.kaggle.com/fedesoriano/stroke-prediction-dataset">Brain Stroke (Kaggle)</a>
+
+Project's paper: <a href="https://github.com/SasageyoOrg/explainable-ai/blob/main/article.pdf">Studio sull'interpretabilità della conoscenza di una Rete Neurale attraverso un Albero Decisionale</a>
 
 ## 🗂 Project Topology <a name="project-topology"></a>
 ```
