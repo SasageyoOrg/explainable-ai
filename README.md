@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-  <img width=200px height=200px src="http://aisb2019.falmouthgamesacademy.com/wp-content/uploads/2018/12/XAI.png" alt="Project logo"></a>
+  <img width=220px height=220px src="https://i.imgur.com/xwgsWPQ.png" alt="Project logo"></a>
 </p>
 
 <h1 align="center">Explainable Artificial Intelligence</br><sub></sub></h1>
